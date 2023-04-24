@@ -1,1 +1,3 @@
-# henry-41148.github.io
+theme: jekyll-theme-minimal
+title: Henry
+description: Keep striving.
